@@ -1,9 +1,12 @@
-import React from "react";
+//components
+import ImageGallery from "./Components/ImageGallery";
 
-type Props = {};
-
-const App = (props: Props) => {
-	return <div>App</div>;
+const App = () => {
+	return (
+		<>
+			<ImageGallery />
+		</>
+	);
 };
 
 export default App;
