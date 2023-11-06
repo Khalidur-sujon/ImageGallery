@@ -19,7 +19,7 @@ A visually appealing and feature-rich image gallery built with React JS. This ga
 
 
 ## Live Link
-[Live Demo](insert_live_demo_url_here)
+[Live Demo](https://image-gallery-psi-dusky.vercel.app/)
 
 Explore the live demo of the image gallery to experience the features in action.
 
